@@ -19,9 +19,9 @@ The app is fully localized into:
 
 ![Hovered element in the desktop features section](https://github.com/Northstrix/plum-cave/blob/main/screenshots/web-app/hovered-client-side-encryption-rectangle-in-desktop-features-section.png?raw=true)
 
-![Web app dashboard 2560px](https://github.com/Northstrix/plum-cave/blob/main/screenshots/web-app/dashboard.png?raw=true)
-
 ![Dropzone](https://raw.githubusercontent.com/Northstrix/plum-cave/refs/heads/main/screenshots/web-app/dropzone.png)
+
+![Web app dashboard 2560px](https://github.com/Northstrix/plum-cave/blob/main/screenshots/web-app/dashboard.png?raw=true)
 
 ![Web app dashboard 1322px](https://github.com/Northstrix/plum-cave/blob/main/screenshots/web-app/dashboard-1322px.png?raw=true)
 

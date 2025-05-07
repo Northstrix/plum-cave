@@ -21,6 +21,8 @@ The app is fully localized into:
 
 ![Web app dashboard 2560px](https://github.com/Northstrix/plum-cave/blob/main/screenshots/web-app/dashboard.png?raw=true)
 
+![Dropzone](https://raw.githubusercontent.com/Northstrix/plum-cave/refs/heads/main/screenshots/web-app/dropzone.png)
+
 ![Web app dashboard 1322px](https://github.com/Northstrix/plum-cave/blob/main/screenshots/web-app/dashboard-1322px.png?raw=true)
 
 ![Python script overview](https://github.com/Northstrix/plum-cave/blob/main/screenshots/python-script/python-script-overview.png?raw=true)

@@ -3,6 +3,10 @@ A cloud backup solution that employs the "ChaCha20 + Serpent-256 CBC + HMAC-SHA3
 
 Check it out at https://plum-cave.netlify.app/
 
+SourceForge page: https://sourceforge.net/projects/plum-cave/
+
+ChaCha20 + Twofish-256 CBC + HMAC-SHA3-512 Version: https://sourceforge.net/projects/plum-cave-twofish/
+
 The account password can contain non-ASCII characters!
 
 The app is fully localized into:

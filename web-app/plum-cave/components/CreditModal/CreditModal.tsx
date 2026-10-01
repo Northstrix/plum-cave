@@ -164,11 +164,6 @@ const CreditModal: React.FC<CreditModalProps> = ({ isOpen, onClose }) => {
               </a> by <a className="hover-link2" href="https://ui.aceternity.com/" target="_blank" rel="noopener noreferrer">Aceternity UI</a>
             </li>
             <li>
-              <a className="hover-link1" href="https://www.reactbits.dev/backgrounds/balatro" target="_blank" rel="noopener noreferrer">
-                Balatro
-              </a> by <a className="hover-link2" href="https://www.reactbits.dev/" target="_blank" rel="noopener noreferrer">React Bits</a>
-            </li>
-            <li>
               <a className="hover-link1" href="https://ui.aceternity.com/components/animated-tooltip" target="_blank" rel="noopener noreferrer">
                 Animated Tooltip
               </a> by <a className="hover-link2" href="https://ui.aceternity.com/" target="_blank" rel="noopener noreferrer">Aceternity UI</a>

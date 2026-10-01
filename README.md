@@ -19,7 +19,7 @@ The app is fully localized into:
 
 </br>
 
-To make this app work, you'll need to create a FileUpload component designed to accept a single file and place it at `components/FileUpload/FileUpload.tsx.`
+To make this app work, you'll need to create a FileUpload component designed to accept a single file and place it at `components/FileUpload/FileUpload.tsx`
 
 It must have the following interface:
 ```

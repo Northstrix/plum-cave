@@ -17,6 +17,8 @@ The app is fully localized into:
 
 ✓ Argentinian Spanish
 
+</br>
+
 To make this app work, you'll need to create a FileUpload component designed to accept a single file and place it at `components/FileUpload/FileUpload.tsx.`
 
 It must have the following interface:

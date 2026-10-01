@@ -17,6 +17,17 @@ The app is fully localized into:
 
 ✓ Argentinian Spanish
 
+To make this app work, you'll need to create a FileUpload component designed to accept a single file and place it at `components/FileUpload/FileUpload.tsx.`
+
+It must have the following interface:
+```
+TypeScript
+interface FileUploadProps {
+  onChange: (file: File | null, isSingleFile: boolean) => void;
+}
+```
+The AI can generate it from [File Upload](https://ui.aceternity.com/components/file-upload) by [Aceternity UI](https://ui.aceternity.com/) and [Balatro Background Shaders](https://www.shadertoy.com/view/XXtBRr) by [xxidbr9](https://www.shadertoy.com/user/xxidbr9)
+
 ![Hovered element in the desktop features section](https://github.com/Northstrix/plum-cave/blob/main/screenshots/web-app/hovered-client-side-encryption-rectangle-in-desktop-features-section.png?raw=true)
 
 ![Dropzone](https://raw.githubusercontent.com/Northstrix/plum-cave/refs/heads/main/screenshots/web-app/dropzone.png)
@@ -204,10 +215,6 @@ The existence of this project (at least in its current form) wouldn't've been po
 [mipher](https://github.com/mpaland/mipher) by [mpaland](https://github.com/mpaland)
 
 [crystals-kyber-js](https://github.com/dajiaji/crystals-kyber-js) by [dajiaji](https://github.com/dajiaji)
-
-[File Upload](https://ui.aceternity.com/components/file-upload) by [Aceternity UI](https://ui.aceternity.com/)
-
-[Balatro](https://www.reactbits.dev/backgrounds/balatro) by [React Bits](https://www.reactbits.dev/)
 
 [Animated Tooltip](https://ui.aceternity.com/components/animated-tooltip) by [Aceternity UI](https://ui.aceternity.com/)
 
